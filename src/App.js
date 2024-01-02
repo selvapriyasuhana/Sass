@@ -9,11 +9,11 @@ function App() {
    
    {/* Nested Rules */}
    <div id="nested">
-      <h3>This is a nested rules example</h3>
+      <h3>This is a nested rules </h3>
    </div>
 
    {/* Interpolation Example */}
-     <p className="interpolation">Interpolation Example.</p>
+     <p className="interpolation">Interpolation.</p>
 
      {/* Function Example */}
      <div id="function">
